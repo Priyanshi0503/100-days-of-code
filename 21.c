@@ -5,7 +5,7 @@ int main () {
     scanf("%d",&month);
 
     if(month==1){
-        printf("january-31 days\n");
+        printf("january-31 days\n");//
     }
     else{
         if(month==2){

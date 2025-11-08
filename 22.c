@@ -7,7 +7,7 @@ int main() {
     printf("Enter Cost Price: ");
     scanf("%f", &costPrice);
 
-    printf("Enter Selling Price: ");
+    printf("Enter Selling Price: "); //
     scanf("%f", &sellingPrice);
 
     if(sellingPrice > costPrice) {

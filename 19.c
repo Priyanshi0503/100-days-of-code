@@ -9,7 +9,7 @@ int main(){
     }
     else{
         if(a==b||b==c||c==a){
-            printf("it is an isoceless triangle \n");
+            printf("it is an isoceless triangle \n");//
         }
         else {
             printf("it is a scalene triangle");

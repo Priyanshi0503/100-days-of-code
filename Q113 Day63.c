@@ -20,7 +20,7 @@ int main() {
     
     // Input array size
     printf("Enter the size of the array: ");
-    scanf("%d", &n);
+    scanf("%d", &n);//
     
     int arr[n];
     

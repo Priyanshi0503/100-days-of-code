@@ -15,7 +15,7 @@ int main() {
     // Check if file opened successfully
     if (file == NULL) {
         printf("Error! Could not create file.\n");
-        return 1;
+        return 1;//
     }
 
     // Take input from user

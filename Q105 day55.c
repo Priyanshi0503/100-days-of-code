@@ -14,7 +14,7 @@ int main() {
     int nums[n];
     printf("Enter %d elements: ", n);
     for (int i = 0; i < n; i++) {
-        scanf("%d", &nums[i]);
+        scanf("%d", &nums[i]);//
     }
 
     int count, majority = -1;
